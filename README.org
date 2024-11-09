@@ -2,9 +2,8 @@
 
 A Syntax Highlighting library
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/redline6561/colorize.git   |
-| commit  | f5ed4b3  |
-| systems | colorize |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/redline6561/colorize.git |
+| commit  | c41fcc5                                         |
+| systems | colorize                                        |
+|---------+-------------------------------------------------|
