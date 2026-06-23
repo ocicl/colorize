@@ -7,4 +7,4 @@ A Syntax Highlighting library
 | commit  | c41fcc5                                         |
 | systems | colorize                                        |
 |---------+-------------------------------------------------|
- 
+  
